@@ -9,4 +9,14 @@ Sudoku Game Solver on Browser (PHP)
   3. view.php(include session.php)
   
  
-## Enter Values
+## Input Example
+
+<p align="center">
+  <img src="images/input.PNG"><br>
+</p>
+
+## Output Example
+
+<p align="center">
+  <img src="images/output.PNG"><br>
+</p>
